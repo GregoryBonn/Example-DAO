@@ -1,0 +1,8 @@
+com\example\app\domain\Client.class
+com\example\app\Application.class
+com\example\app\infrastructure\DaoFactory.class
+com\example\app\infrastructure\ClientDaoImpl.class
+com\example\app\domain\Produit.class
+com\example\app\infrastructure\IClientDao.class
+com\example\app\infrastructure\ProduitDaoImpl.class
+com\example\app\infrastructure\IProduitDao.class
